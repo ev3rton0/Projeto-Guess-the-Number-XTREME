@@ -20,5 +20,5 @@ dm - Botão que altera a unidade dos minutos;
 O circuito do core é basicamente formado por: uma máquina de estados, memórias de 4 bits, um circuito que transforma os bits, um comparador e o placar.
 Ele é o principal circuito para funcionamento do Projeto. Através dele, o jogador consegue chutar as coordenadas X e Y , Somar os valores, Identificar se é maior | menor | igual , a maquina consegue computar um valor aleatório entre outras funcões.
 
-#Final
+# Final
 Para mais detalhes na construção do projeto , especifações do circuito e funcionamento do jogo o relatório também está disponivel!
