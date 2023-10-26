@@ -1,8 +1,12 @@
 # Projeto-Guess-the-Number-XTREME
 
+# Equipe
+Arthur Ricardo e Everton Lohan
+
 # Resumo
 O projeto Guess the Number XTREME faz parte do projeto final da disciplina CIRCUITOS DIGITAIS do curso CIÊNCIA DA COMPUTAÇÃO, é essencialmente dividido em duas partes, o CRONÔMETRO e o CORE.
 Com isso, no projeto passado nós dividimos o projeto em 2 e fizemos, neste projeto não fizemos isso, os dois trabalharam tanto no cronômetro quanto no core.
+
 
 # Cronômetro 
 O circuito do cronômetro do jogo funciona da seguinte forma:
